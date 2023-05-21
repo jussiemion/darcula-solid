@@ -2,7 +2,7 @@
   "name": "darcula-solid",
   "displayName": "Darcula Solid",
   "description": "A dark theme for VS Code inspired by Darcula Solid theme for JetBrains IDEs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "jussiemion",
   "icon": "assets/logo.png",
   "repository": {
