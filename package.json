@@ -1,0 +1,37 @@
+{
+  "name": "darcula-solid",
+  "displayName": "Darcula Solid",
+  "description": "A dark theme for VS Code inspired by Darcula Solid theme for JetBrains IDEs",
+  "publisher": "jussiemion",
+  "icon": "assets/logo.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jussiemion/darcula-solid"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "darcula",
+    "darcula solid",
+    "darcula theme",
+    "orange",
+    "orange theme",
+    "jussiemion",
+    "semyonyushkevich"
+  ],
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Darcula Solid",
+        "uiTheme": "vs-dark",
+        "path": "./themes/darcula-solid-color-theme.json"
+      }
+    ]
+  }
+}
