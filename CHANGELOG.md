@@ -1,5 +1,12 @@
 # Change Log
 
+## 1.1.0 (2023-05-23)
+
+- Removed: useless keywords
+- Updated: screenshots of Darcula Solid theme
+- Updated: .gitignore list
+- Enhanced: Darcula Solid design
+
 ## 1.0.2 (2023-05-21)
 
 - Changed: keywords list
