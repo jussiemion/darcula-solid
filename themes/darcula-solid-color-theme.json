@@ -1,7 +1,7 @@
 {
   "type": "dark",
   "colors": {
-    "activityBar.activeBorder": "#cf7631",
+    "activityBar.activeBorder": "#a0a0a0",
     "activityBar.background": "#1b1b1b",
     "activityBar.border": "#2f2f2f",
     "activityBar.dropBorder": "#ffffff",
