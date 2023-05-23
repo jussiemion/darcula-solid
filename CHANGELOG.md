@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.1.1 (2023-05-23)
+
+- Updated: screenshots of Darcula Solid theme
+- Enhanced: Darcula Solid design
+
 ## 1.1.0 (2023-05-23)
 
 - Removed: useless keywords
