@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  A dark theme for VS Code inspired by <a href="https://plugins.jetbrains.com/plugin/13920-darcula-solid-theme">Darcula Solid</a> theme for JetBrains IDEs
+  Dark theme for VS Code inspired by <a href="https://plugins.jetbrains.com/plugin/13920-darcula-solid-theme">Darcula Solid</a> theme for JetBrains IDEs
 </p>
 
 <p align="center">
