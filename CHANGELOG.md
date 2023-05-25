@@ -1,5 +1,12 @@
 # Change Log
 
+## 1.1.2 (2023-05-26)
+
+- Updated: project description
+- Updated: design and contents of README file
+- Added: full logo
+- Fixed: color of progress indicator
+
 ## 1.1.1 (2023-05-23)
 
 - Updated: screenshots of Darcula Solid theme
