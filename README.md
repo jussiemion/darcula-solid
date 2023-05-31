@@ -7,37 +7,29 @@
 
 ## Getting started
 
-### Install from Marketplace
+Launch `Quick Open`:
 
-You can install Darcula Solid theme through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=jussiemion.darcula-solid).
+| OS | Shortcut |
+| :- | :-       |
+| <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf">Linux</a> | `Ctrl` + `P` |
+| <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf">macOS</a> | `⌘` + `P` |
+| <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf">Windows</a> | `Ctrl` + `P` |
 
-### Install from VS code
+Paste the following command and press `Enter`:
 
-1. Launch `Quick Open`:
+```shell
+ext install jussiemion.darcula-solid
+```
 
-   | OS | Shortcut |
-   | :- | :-       |
-   | <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf">Linux</a> | `Ctrl` + `P` |
-   | <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf">macOS</a> | `⌘` + `P` |
-   | <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf">Windows</a> | `Ctrl` + `P` |
+Select and install Darcula Solid. Then launch `Quick Open`:
 
-2. Paste the following command and press `Enter`:
+| OS | Shortcut |
+| :- | :-       |
+| <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf">Linux</a> | `Ctrl` + `Shift` + `P` |
+| <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf">macOS</a> | `⌘` + `Shift` + `P` |
+| <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf">Windows</a> | `Ctrl` + `Shift` + `P` |
 
-   ```shell
-   ext install jussiemion.darcula-solid
-   ```
-
-3. Select and install Darcula Solid.
-
-4. Launch `Quick Open`:
-
-   | OS | Shortcut |
-   | :- | :-       |
-   | <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf">Linux</a> | `Ctrl` + `Shift` + `P` |
-   | <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf">macOS</a> | `⌘` + `Shift` + `P` |
-   | <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf">Windows</a> | `Ctrl` + `Shift` + `P` |
-
-5. Type `theme`, choose `Preferences: Color Theme`, and select Darcula Solid from the list.
+Type `theme`, choose `Preferences: Color Theme`, and select Darcula Solid from the list.
 
 ## Override theme colors
 
