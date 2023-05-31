@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.1.3 (2023-06-01)
+
+- Updated: theme preview
+- Updated: README file contents
+- Removed: outdated assets
+
 ## 1.1.2 (2023-05-26)
 
 - Updated: project description
@@ -21,7 +27,7 @@
 
 ## 1.0.2 (2023-05-21)
 
-- Changed: keywords list
+- Updated: keywords list
 - Added: README file
 
 ## 1.0.1 (2023-05-21)
