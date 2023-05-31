@@ -3,9 +3,7 @@
   <img src="assets/logo-full.png" />
 </p>
 
-<img src="assets/screenshot-welcome.png" />
-
-<img src="assets/screenshot-code.png" />
+<img src="assets/preview.gif" />
 
 ## Getting started
 
