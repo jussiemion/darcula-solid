@@ -614,14 +614,14 @@
     },
     {
       "name": "String Interpolation Begin and End",
-      "scope": "punctuation.definition.template-expression.begin,punctuation.definition.template-expression.end",
+      "scope": "punctuation.quasi.element.begin.js,punctuation.definition.template-expression.begin,punctuation.definition.template-expression.end",
       "settings": {
         "foreground": "#CC8242"
       }
     },
     {
       "name": "String Interpolation Body",
-      "scope": "expression.string,meta.template.expression",
+      "scope": "expression.string,meta.template.expression,entity.quasi.element.js",
       "settings": {
         "foreground": "#CCCCCC"
       }
@@ -684,7 +684,7 @@
     },
     {
       "name": "Function Types",
-      "scope": "annotation.meta.ts, annotation.meta.tsx",
+      "scope": "annotation.meta.js, annotation.meta.jsx, annotation.meta.ts, annotation.meta.tsx",
       "settings": {
         "foreground": "#CCCCCC"
       }
@@ -873,7 +873,7 @@
     },
     {
       "name": "Regex Character Class",
-      "scope": "constant.other.character-class.regexp, constant.character.escape.ts",
+      "scope": "constant.other.character-class.regexp, constant.character.escape.js, constant.character.escape.ts",
       "settings": {
         "foreground": "#CCCCCC"
       }
