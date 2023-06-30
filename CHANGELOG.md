@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.1.4 (2023-07-01)
+
+- Enhanced: JS string interpolation coloring
+- Removed: Stylelint colors overrides
+
 ## 1.1.3 (2023-06-01)
 
 - Updated: theme preview
