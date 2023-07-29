@@ -1063,6 +1063,13 @@
       "settings": {
         "foreground": "#B200B2"
       }
+    },
+    {
+      "name": "Python self",
+      "scope": "variable.parameter.function.language.special.self.python,variable.language.special.self.python",
+      "settings": {
+        "foreground": "#94558D"
+      }
     }
   ]
 }
