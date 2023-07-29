@@ -1042,6 +1042,13 @@
       "settings": {
         "foreground": "#FFC66D"
       }
+    },
+    {
+      "name": "Python types",
+      "scope": "support.type.python",
+      "settings": {
+        "foreground": "#8888C6"
+      }
     }
   ]
 }
