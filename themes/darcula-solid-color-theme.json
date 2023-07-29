@@ -1070,6 +1070,16 @@
       "settings": {
         "foreground": "#94558D"
       }
+    },
+    {
+      "name": "Python annotation",
+      "scope": [
+        "punctuation.definition.decorator.python",
+        "source.python meta.function.decorator.python support.type.python"
+      ],
+      "settings": {
+        "foreground": "#BBB529"
+      }
     }
   ]
 }
