@@ -1049,6 +1049,13 @@
       "settings": {
         "foreground": "#8888C6"
       }
+    },
+    {
+      "name": "Python parameters",
+      "scope": "variable.parameter.function-call.python",
+      "settings": {
+        "foreground": "#AA4926"
+      }
     }
   ]
 }
