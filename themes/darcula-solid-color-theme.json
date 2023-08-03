@@ -1051,13 +1051,6 @@
       }
     },
     {
-      "name": "Python parameters",
-      "scope": "variable.parameter.function-call.python",
-      "settings": {
-        "foreground": "#AA4926"
-      }
-    },
-    {
       "name": "Python special functions",
       "scope": "support.function.magic.python",
       "settings": {
