@@ -1042,6 +1042,37 @@
       "settings": {
         "foreground": "#FFC66D"
       }
+    },
+    {
+      "name": "Python types",
+      "scope": "support.type.python",
+      "settings": {
+        "foreground": "#8ba6c2"
+      }
+    },
+    {
+      "name": "Python special functions",
+      "scope": "support.function.magic.python",
+      "settings": {
+        "foreground": "#FFC66D"
+      }
+    },
+    {
+      "name": "Python self",
+      "scope": "variable.parameter.function.language.special.self.python,variable.language.special.self.python",
+      "settings": {
+        "foreground": "#9899bf"
+      }
+    },
+    {
+      "name": "Python annotation",
+      "scope": [
+        "punctuation.definition.decorator.python",
+        "source.python meta.function.decorator.python support.type.python"
+      ],
+      "settings": {
+        "foreground": "#ffc66d"
+      }
     }
   ]
 }
