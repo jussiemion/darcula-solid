@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.2.0 (2023-08-04)
+
+- Enhanced: Python language support
+
 ## 1.1.4 (2023-07-01)
 
 - Enhanced: JS string interpolation coloring
