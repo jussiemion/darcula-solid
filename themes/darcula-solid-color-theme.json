@@ -739,6 +739,13 @@
       }
     },
     {
+      "name": "JSON Keys",
+      "scope": "support.type.property-name.json",
+      "settings": {
+        "foreground": "#9E7BB0"
+      }
+    },
+    {
       "name": "TypeScript Class Modifiers",
       "scope": "storage.modifier.ts",
       "settings": {
