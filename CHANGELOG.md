@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.2.1 (2023-12-10)
+
+- Enhanced: JSON keys coloring
+
 ## 1.2.0 (2023-08-04)
 
 - Enhanced: Python language support
